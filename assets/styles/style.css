@@ -81,6 +81,7 @@
     text-transform: uppercase;
     color: #FFFFFF;
     background-color: #333333;
+    cursor: pointer;
 }
 
 @media (max-width: 1230px) {
