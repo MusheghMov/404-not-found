@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot]("/404-not-found/demo-screenshot.png?raw=true")
+![screenshot]("/demo-screenshot.png?raw=true")
 
 ### Built With
 
